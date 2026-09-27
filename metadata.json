@@ -1,0 +1,6 @@
+{
+  "name": "HisabPro",
+  "description": "نرم‌افزار جامع حسابداری دوبل و مدیریت مالی ویژه بازار ایران (HisabPro / حسابداری تراز)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
